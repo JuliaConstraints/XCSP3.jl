@@ -1,0 +1,14 @@
+*.jl.*.cov
+*.jl.cov
+*.mem
+/docs/build/
+.gitignore
+_git2_*
+
+/.benchmarkci
+/benchmark/*.json
+
+*Manifest.toml
+
+/extra_md/
+/xcsp3*

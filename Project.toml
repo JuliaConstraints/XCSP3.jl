@@ -3,7 +3,18 @@ uuid = "bb10fa4c-83a6-4385-9a0a-8a86edc06950"
 authors = ["Jean-François BAFFIER (@Azzaare)"]
 version = "0.0.1"
 
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
+
 [compat]
+Aqua = "0.8"
+DataStructures = "0.18"
+EzXML = "1"
+JET = "0.9"
+Test = "1"
+TestItems = "1"
 julia = "1.10"
 
 [extras]
